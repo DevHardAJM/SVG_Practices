@@ -36,17 +36,17 @@
   
 ### Exercice 6 : Carrelage
 
-  ![Image](https://github.com/DevHardAJM/SVG_Practices/blob/master/Images/Exo5.PNG)
+  ![Image](https://github.com/DevHardAJM/SVG_Practices/blob/master/Images/Exo6.PNG)
   ***
   
 
 ### Exercice 7 : Vagues
 
-  ![Image](https://github.com/DevHardAJM/SVG_Practices/blob/master/Images/Exo5.PNG)
+  ![Image](https://github.com/DevHardAJM/SVG_Practices/blob/master/Images/Exo7.PNG)
   ***
   
 
 ### Exercice 8 : Mona lisa
 
-  ![Image](https://github.com/DevHardAJM/SVG_Practices/blob/master/Images/Exo5.PNG)
+  ![Image](https://github.com/DevHardAJM/SVG_Practices/blob/master/Images/Exo8.PNG)
   ***
